@@ -10,6 +10,6 @@ This project aims to predict income and expenses for bank users using machine le
 ### Installation Steps
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/transaction_analysis.git
+git clone git clone https://github.com/krisi06/transaction_analysis.git
 cd transaction_analysis
 
